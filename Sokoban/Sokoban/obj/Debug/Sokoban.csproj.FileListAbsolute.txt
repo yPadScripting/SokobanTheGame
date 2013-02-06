@@ -1,0 +1,13 @@
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\MainWindow.baml
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\MainWindow.g.cs
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\App.g.cs
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban_MarkupCompile.cache
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.g.resources
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\Pim\Dropbox\Avans\Blok 7\C#\Dobbelsteen\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
